@@ -1,0 +1,11 @@
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\obj\Debug\ConsumindoApiTimesNba.csproj.AssemblyReference.cache
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\obj\Debug\ConsumindoApiTimesNba.csproj.SuggestedBindingRedirects.cache
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\obj\Debug\ConsumindoApiTimesNba.csproj.CoreCompileInputs.cache
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\bin\Debug\ConsumindoApiTimesNba.exe.config
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\bin\Debug\ConsumindoApiTimesNba.exe
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\bin\Debug\ConsumindoApiTimesNba.pdb
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\obj\Debug\ConsumindoApiTimesNba.exe
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\obj\Debug\ConsumindoApiTimesNba.pdb
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lupdsilva\source\repos\ConsumindoApiTimesNba\ConsumindoApiTimesNba\obj\Debug\ConsumindoApiTimesNba.csproj.CopyComplete
